@@ -1,0 +1,11 @@
+{
+  "name": "seven-tween-ease",
+  "version": "1.0.0",
+  "description": "Easing functions for seven tween or whatever you might need them for",
+  "main": "seven-tween-ease.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Correa",
+  "license": "ISC"
+}
